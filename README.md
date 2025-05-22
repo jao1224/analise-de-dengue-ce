@@ -1,4 +1,4 @@
-# Análise de Dengue no Ceará
+# Análise de Dengue no Ceará 2014-2025
 
 Este projeto realiza uma análise preditiva dos casos de dengue no estado do Ceará, utilizando técnicas de análise de dados e machine learning.
 
