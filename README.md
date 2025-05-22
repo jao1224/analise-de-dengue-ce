@@ -4,23 +4,24 @@ Este projeto realiza uma análise preditiva dos casos de dengue no estado do Cea
 
 ## 📊 Resultados da Análise
 
+### Análise Inicial
+![Análise Inicial](output.png)
+
+### Tendência dos Casos
+![Tendência](output1.png)
+
+### Distribuição Geográfica
+![Distribuição Geográfica](output2.png)
+
+### Análise Temporal dos Casos
+![Análise Temporal](output3.png)
+
 ### Teste do Modelo KNN
 ![Teste do Modelo KNN](teste%20do%20modelo%20knn.png)
 
 ### Previsão para os próximos 6 meses
 ![Previsão 6 Meses](grafico_previsao_6meses.png)
 
-### Análise Temporal dos Casos
-![Análise Temporal](output3.png)
-
-### Distribuição Geográfica
-![Distribuição Geográfica](output2.png)
-
-### Tendência dos Casos
-![Tendência](output1.png)
-
-### Análise Inicial
-![Análise Inicial](output.png)
 
 ## 📁 Estrutura do Projeto
 
